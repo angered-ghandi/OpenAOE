@@ -1,3 +1,5 @@
+# OpenAOE has been renamed to [Chariot](https://github.com/ChariotEngine/Chariot) and has a new maintainer. This repository will not see any more contributions.
+
 # OpenAOE [![Build Status](https://travis-ci.org/angered-ghandi/OpenAOE.svg?branch=master)](https://travis-ci.org/angered-ghandi/OpenAOE)
 
 The OpenAOE project is an attempt to re-implement the original Age of Empires (1997)
@@ -12,7 +14,7 @@ The OpenAOE project will strive to be as close to the original as possible.
 For obvious reasons, you'll need an original Age of Empires CD to be able to
 play it. No game data files will be committed to the repository.
 
-**Note:** This is a work in progress. As of 2016-07-08, there is no game to be played. Just a demonstration of the original game assets being loaded and other proof of concepts. It will be a while before it is playable.
+**Note:** This is a work in progress. As of 2017-05-09, there is no game to be played. Just a demonstration of the original game assets being loaded and other proof of concepts. It will be a while before it is playable.
 
 # WIP Screenshot
 
@@ -72,15 +74,4 @@ Note that in these early versions, you may need to specify additional command li
 
 # Contributing
 
-OpenAOE is MIT licensed. Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you shall be as MIT, without any additional terms or conditions.
-
-Pull requests, especially pertaining to accuracy/bug-fixes, are always more than welcome! If you're new to the project and want to write some code, checkout the issues list and look for anything tagged `A-easy`.
-
-## IRC
-
-We have an IRC channel setup at #openaoe on Freenode. Most collaborative discussions take place there, so it's a good place to ask where you can help out, or how something should be approached.
-
-## Before submitting a pull request
-
-1. Make sure you've run the tests: `./all-crates-do test`
-2. Format any source files you modified with [Rustfmt](https://github.com/rust-lang-nursery/rustfmt).
+OpenAOE has been renamed to [Chariot](https://github.com/ChariotEngine/Chariot) and has a new maintainer. Please contribute to Chariot instead.
